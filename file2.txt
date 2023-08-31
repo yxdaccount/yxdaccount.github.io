@@ -1,4 +1,4 @@
 hello2
 ddd
-Edied from gig hub ADDED FROM LOCAL
+Edied from gig ADD FROM GITHUB hub
 this is new from git hub
